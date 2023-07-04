@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "scma:block/xor_gate"
+        },
+        "facing=east": {
+            "model": "scma:block/xor_gate",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "scma:block/xor_gate",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "scma:block/xor_gate",
+            "y": 270
+        }
+    }
+}

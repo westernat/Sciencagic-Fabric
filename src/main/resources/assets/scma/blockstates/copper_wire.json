@@ -1,0 +1,334 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "color": 0
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_center_white"
+            }
+        },
+        {
+            "when": {
+                "color": 0,
+                "east": true
+            },
+            "apply": {
+                "y": 90,
+                "model": "scma:block/copper_wire_side_white"
+            }
+        },
+        {
+            "when": {
+                "color": 0,
+                "west": true
+            },
+            "apply": {
+                "y": 270,
+                "model": "scma:block/copper_wire_side_white"
+            }
+        },
+        {
+            "when": {
+                "color": 0,
+                "up": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_up_white"
+            }
+        },
+        {
+            "when": {
+                "color": 0,
+                "down": true
+            },
+            "apply": {
+                "x": 180,
+                "model": "scma:block/copper_wire_up_white"
+            }
+        },
+        {
+            "when": {
+                "color": 0,
+                "south": true
+            },
+            "apply": {
+                "y": 180,
+                "model": "scma:block/copper_wire_side_white"
+            }
+        },
+        {
+            "when": {
+                "color": 0,
+                "north": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_side_white"
+            }
+        },
+        {
+            "when": {
+                "color": 1
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_center_red"
+            }
+        },
+        {
+            "when": {
+                "color": 1,
+                "east": true
+            },
+            "apply": {
+                "y": 90,
+                "model": "scma:block/copper_wire_side_red"
+            }
+        },
+        {
+            "when": {
+                "color": 1,
+                "west": true
+            },
+            "apply": {
+                "y": 270,
+                "model": "scma:block/copper_wire_side_red"
+            }
+        },
+        {
+            "when": {
+                "color": 1,
+                "up": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_up_red"
+            }
+        },
+        {
+            "when": {
+                "color": 1,
+                "down": true
+            },
+            "apply": {
+                "x": 180,
+                "model": "scma:block/copper_wire_up_red"
+            }
+        },
+        {
+            "when": {
+                "color": 1,
+                "south": true
+            },
+            "apply": {
+                "y": 180,
+                "model": "scma:block/copper_wire_side_red"
+            }
+        },
+        {
+            "when": {
+                "color": 1,
+                "north": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_side_red"
+            }
+        },
+        {
+            "when": {
+                "color": 2
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_center_green"
+            }
+        },
+        {
+            "when": {
+                "color": 2,
+                "east": true
+            },
+            "apply": {
+                "y": 90,
+                "model": "scma:block/copper_wire_side_green"
+            }
+        },
+        {
+            "when": {
+                "color": 2,
+                "west": true
+            },
+            "apply": {
+                "y": 270,
+                "model": "scma:block/copper_wire_side_green"
+            }
+        },
+        {
+            "when": {
+                "color": 2,
+                "up": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_up_green"
+            }
+        },
+        {
+            "when": {
+                "color": 2,
+                "down": true
+            },
+            "apply": {
+                "x": 180,
+                "model": "scma:block/copper_wire_up_green"
+            }
+        },
+        {
+            "when": {
+                "color": 2,
+                "south": true
+            },
+            "apply": {
+                "y": 180,
+                "model": "scma:block/copper_wire_side_green"
+            }
+        },
+        {
+            "when": {
+                "color": 2,
+                "north": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_side_green"
+            }
+        },
+        {
+            "when": {
+                "color": 3
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_center_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 3,
+                "east": true
+            },
+            "apply": {
+                "y": 90,
+                "model": "scma:block/copper_wire_side_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 3,
+                "west": true
+            },
+            "apply": {
+                "y": 270,
+                "model": "scma:block/copper_wire_side_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 3,
+                "up": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_up_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 3,
+                "down": true
+            },
+            "apply": {
+                "x": 180,
+                "model": "scma:block/copper_wire_up_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 3,
+                "south": true
+            },
+            "apply": {
+                "y": 180,
+                "model": "scma:block/copper_wire_side_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 3,
+                "north": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_side_blue"
+            }
+        },
+        {
+            "when": {
+                "color": 4
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_center_yellow"
+            }
+        },
+        {
+            "when": {
+                "color": 4,
+                "east": true
+            },
+            "apply": {
+                "y": 90,
+                "model": "scma:block/copper_wire_side_yellow"
+            }
+        },
+        {
+            "when": {
+                "color": 4,
+                "west": true
+            },
+            "apply": {
+                "y": 270,
+                "model": "scma:block/copper_wire_side_yellow"
+            }
+        },
+        {
+            "when": {
+                "color": 4,
+                "up": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_up_yellow"
+            }
+        },
+        {
+            "when": {
+                "color": 4,
+                "down": true
+            },
+            "apply": {
+                "x": 180,
+                "model": "scma:block/copper_wire_up_yellow"
+            }
+        },
+        {
+            "when": {
+                "color": 4,
+                "south": true
+            },
+            "apply": {
+                "y": 180,
+                "model": "scma:block/copper_wire_side_yellow"
+            }
+        },
+        {
+            "when": {
+                "color": 4,
+                "north": true
+            },
+            "apply": {
+                "model": "scma:block/copper_wire_side_yellow"
+            }
+        }
+    ]
+}

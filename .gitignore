@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_18_2_1_18_2_build_4_v2/teamreborn/energy/2.2.0/energy-2.2.0.pom
+.gradle/7.4/checksums/checksums.lock
+.gradle/7.4/checksums/sha1-checksums.bin
+.gitignore
+.gradle/7.4/dependencies-accessors/dependencies-accessors.lock
+.gradle/7.4/fileHashes/fileHashes.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/buildOutputCleanup/cache.properties
+.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_18_2_1_18_2_build_4_v2/net/fabricmc/fabric-loader/0.12.12/fabric-loader-0.12.12.pom

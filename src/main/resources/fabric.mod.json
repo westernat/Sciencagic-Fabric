@@ -1,0 +1,42 @@
+{
+    "schemaVersion": 1,
+    "id": "scma",
+    "version": "0.2.0",
+    "name": "Sciencagic",
+    "description": "玄灵科技",
+    "authors": [
+        "Westernat",
+        "The_start22",
+        "Fish",
+        "Feng_Liu_Shan_Shan",
+        "Nox_Tang"
+    ],
+    "contact": {
+        "homepage": "https://fabricmc.net/",
+        "sources": "https://github.com/FabricMC/fabric-example-mod"
+    },
+    "license": "CC0-1.0",
+    "icon": "pack_icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "org.mesdag.scma.SCMA"
+        ],
+        "client": [
+            "org.mesdag.scma.client.SCMAClient"
+        ]
+    },
+    "mixins": [
+        "scma.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.13.3",
+        "fabric": "*",
+        "minecraft": "1.18.x",
+        "java": ">=17",
+        "nbtcrafting": "2.2.3"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}

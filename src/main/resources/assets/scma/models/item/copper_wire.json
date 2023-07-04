@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "scma:item/wires/copper_wire_w"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "scma:item/copper_wire_r"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "scma:item/copper_wire_g"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "scma:item/copper_wire_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "scma:item/copper_wire_y"
+        }
+    ]
+}

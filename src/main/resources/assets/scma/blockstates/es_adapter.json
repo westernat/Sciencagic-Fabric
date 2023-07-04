@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "scma:block/es_adapter"
+        },
+        "facing=east": {
+            "model": "scma:block/es_adapter",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "scma:block/es_adapter",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "scma:block/es_adapter",
+            "y": 270
+        }
+    }
+}

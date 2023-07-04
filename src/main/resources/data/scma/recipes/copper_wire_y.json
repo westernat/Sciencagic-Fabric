@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "copper_wire",
+    "ingredients": [
+        {
+            "item": "scma:copper_wire"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        }
+    ],
+    "result": {
+        "item": "scma:copper_wire",
+        "data": {
+            "CustomModelData": "$ 4#i",
+            "BlockStateTag": {
+                "color": "$ 4#i"
+            }
+        }
+    }
+}

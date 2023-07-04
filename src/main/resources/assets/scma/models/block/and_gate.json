@@ -1,0 +1,7 @@
+{
+    "parent": "scma:block/triode_template",
+    "textures": {
+        "0": "scma:block/logic/and_gate",
+        "4": "scma:block/logic/and_sign"
+    }
+}

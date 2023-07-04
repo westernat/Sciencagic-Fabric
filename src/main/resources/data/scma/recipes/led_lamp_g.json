@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "led_lamp",
+    "ingredients": [
+        {
+            "item": "scma:led_lamp"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "item": "scma:led_lamp",
+        "data": {
+            "CustomModelData": "$ 2#i",
+            "BlockStateTag": {
+                "color": "$ 2#i"
+            }
+        }
+    }
+}

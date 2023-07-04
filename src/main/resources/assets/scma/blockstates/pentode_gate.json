@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "scma:block/pentode_gate"
+        },
+        "facing=east": {
+            "model": "scma:block/pentode_gate",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "scma:block/pentode_gate",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "scma:block/pentode_gate",
+            "y": 270
+        }
+    }
+}

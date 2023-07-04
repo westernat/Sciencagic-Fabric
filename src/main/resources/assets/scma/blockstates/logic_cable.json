@@ -1,0 +1,61 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "scma:block/logic_cable_center"
+            }
+        },
+        {
+            "when": {
+                "east": true
+            },
+            "apply": {
+                "y": 90,
+                "model": "scma:block/logic_cable_side"
+            }
+        },
+        {
+            "when": {
+                "west": true
+            },
+            "apply": {
+                "y": 270,
+                "model": "scma:block/logic_cable_side"
+            }
+        },
+        {
+            "when": {
+                "up": true
+            },
+            "apply": {
+                "model": "scma:block/logic_cable_up"
+            }
+        },
+        {
+            "when": {
+                "down": true
+            },
+            "apply": {
+                "x": 180,
+                "model": "scma:block/logic_cable_up"
+            }
+        },
+        {
+            "when": {
+                "south": true
+            },
+            "apply": {
+                "y": 180,
+                "model": "scma:block/logic_cable_side"
+            }
+        },
+        {
+            "when": {
+                "north": true
+            },
+            "apply": {
+                "model": "scma:block/logic_cable_side"
+            }
+        }
+    ]
+}

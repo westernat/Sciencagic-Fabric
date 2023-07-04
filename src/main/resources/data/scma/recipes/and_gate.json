@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scma:triode_gate"
+        },
+        {
+            "item": "scma:diode_gate"
+        },
+        {
+            "item": "scma:not_gate"
+        }
+    ],
+    "result": {
+        "item": "scma:and_gate",
+        "count": 3
+    }
+}

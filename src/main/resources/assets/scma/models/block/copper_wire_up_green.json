@@ -1,0 +1,6 @@
+{
+    "parent": "scma:block/wire_up",
+    "textures": {
+        "0": "scma:block/wire/copper_wire_g"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scma:pentode_gate"
+        },
+        {
+            "item": "scma:triode_gate"
+        }
+    ],
+    "result": {
+        "item": "scma:add_gate",
+        "count": 2
+    }
+}

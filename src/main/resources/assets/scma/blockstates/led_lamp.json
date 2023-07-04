@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "color=0,lit=false": {
+            "model": "scma:block/led_lamp_w_off"
+        },
+        "color=0,lit=true": {
+            "model": "scma:block/led_lamp_w_on"
+        },
+        "color=1,lit=false": {
+            "model": "scma:block/led_lamp_r_off"
+        },
+        "color=1,lit=true": {
+            "model": "scma:block/led_lamp_r_on"
+        },
+        "color=2,lit=false": {
+            "model": "scma:block/led_lamp_g_off"
+        },
+        "color=2,lit=true": {
+            "model": "scma:block/led_lamp_g_on"
+        },
+        "color=3,lit=false": {
+            "model": "scma:block/led_lamp_b_off"
+        },
+        "color=3,lit=true": {
+            "model": "scma:block/led_lamp_b_on"
+        },
+        "color=4,lit=false": {
+            "model": "scma:block/led_lamp_y_off"
+        },
+        "color=4,lit=true": {
+            "model": "scma:block/led_lamp_y_on"
+        }
+    }
+}

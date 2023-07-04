@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "scma:deepslate_moscovium_ore",
+        "scma:moscovium_block"
+    ]
+}

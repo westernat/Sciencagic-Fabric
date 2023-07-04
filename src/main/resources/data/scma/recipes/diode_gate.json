@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "a",
+        "b",
+        "a"
+    ],
+    "key": {
+        "a": {
+            "item": "scma:silicon"
+        },
+        "b": {
+            "item": "scma:silver_ingot"
+        }
+    },
+    "result": {
+        "item": "scma:diode_gate",
+        "count": 2
+    }
+}

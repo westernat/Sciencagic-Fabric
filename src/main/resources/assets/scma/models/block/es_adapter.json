@@ -1,0 +1,7 @@
+{
+    "parent": "scma:block/diode_template",
+    "textures": {
+        "0": "scma:block/logic/adapter_sign",
+        "3": "scma:block/logic/es_adapter"
+    }
+}

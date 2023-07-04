@@ -1,0 +1,7 @@
+{
+    "parent": "scma:block/pentode_template",
+    "textures": {
+        "1": "scma:block/logic/pentode_gate",
+        "2": "scma:block/logic/pentode_sign"
+    }
+}

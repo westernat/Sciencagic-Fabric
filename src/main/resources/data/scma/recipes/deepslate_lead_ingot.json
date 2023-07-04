@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "scma:deepslate_lead_ore"
+    },
+    "result": "scma:lead_ingot",
+    "experience": 2.0
+}

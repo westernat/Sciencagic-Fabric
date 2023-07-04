@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "bdb",
+        "ccc"
+    ],
+    "key": {
+        "a": {
+            "item": "scma:silicon"
+        },
+        "b": {
+            "item": "scma:silver_ingot"
+        },
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "d": {
+            "item": "scma:copper_wire"
+        }
+    },
+    "result": {
+        "item": "scma:solar_panel",
+        "count": 3
+    }
+}

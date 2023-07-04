@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "on_use=false": {
+            "model": "scma:block/moscovium_block"
+        },
+        "on_use=true": {
+            "model": "scma:block/moscovium_block_on"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "scma:lead_ore",
+        "scma:deepslate_lead_ore",
+        "scma:lead_block",
+        "scma:silver_ore",
+        "scma:deepslate_silver_ore",
+        "scma:silver_block"
+    ]
+}

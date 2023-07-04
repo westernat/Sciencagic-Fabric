@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/orientable",
+    "textures": {
+        "top": "scma:block/machine/mechanical_shell",
+        "front": "scma:block/machine/thermal_generator_on",
+        "side": "scma:block/machine/machine_side"
+    }
+}

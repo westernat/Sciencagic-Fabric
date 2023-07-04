@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "led_lamp",
+    "pattern": [
+        " b ",
+        "bab",
+        " b "
+    ],
+    "key": {
+        "a": {
+            "item": "scma:copper_wire"
+        },
+        "b": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "item": "scma:led_lamp"
+    }
+}

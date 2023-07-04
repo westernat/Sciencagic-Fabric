@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=north,locked=false": {
+            "model": "scma:block/not_gate"
+        },
+        "facing=east,locked=false": {
+            "model": "scma:block/not_gate",
+            "y": 90
+        },
+        "facing=south,locked=false": {
+            "model": "scma:block/not_gate",
+            "y": 180
+        },
+        "facing=west,locked=false": {
+            "model": "scma:block/not_gate",
+            "y": 270
+        },
+        "facing=north,locked=true": {
+            "model": "scma:block/not_gate_locked"
+        },
+        "facing=east,locked=true": {
+            "model": "scma:block/not_gate_locked",
+            "y": 90
+        },
+        "facing=south,locked=true": {
+            "model": "scma:block/not_gate_locked",
+            "y": 180
+        },
+        "facing=west,locked=true": {
+            "model": "scma:block/not_gate_locked",
+            "y": 270
+        }
+    }
+}

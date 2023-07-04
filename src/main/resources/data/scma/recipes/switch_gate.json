@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scma:diode_gate"
+        },
+        {
+            "item": "minecraft:lever"
+        }
+    ],
+    "result": {
+        "item": "scma:switch_gate"
+    }
+}

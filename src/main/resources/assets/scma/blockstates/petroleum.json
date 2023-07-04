@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "scma:block/petroleum"
+        }
+    }
+}

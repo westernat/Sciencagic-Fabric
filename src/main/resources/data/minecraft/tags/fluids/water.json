@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "scma:still_petroleum",
+        "scma:flowing_petroleum",
+        "scma:still_naphtha",
+        "scma:flowing_naphtha"
+    ]
+}

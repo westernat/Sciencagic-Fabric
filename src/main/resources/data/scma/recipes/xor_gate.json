@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "scma:triode_gate"
+        },
+        {
+            "item": "minecraft:comparator"
+        }
+    ],
+    "result": {
+        "item": "scma:xor_gate"
+    }
+}

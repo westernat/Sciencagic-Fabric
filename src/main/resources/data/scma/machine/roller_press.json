@@ -1,0 +1,14 @@
+{
+    "modules": [
+        "scma:rp_rod_module",
+        "scma:rp_plate_module",
+        "scma:rp_thread_module"
+    ],
+    "recipes": {
+        "minecraft:copper_ingot": [
+            "scma:copper_rod",
+            "scma:copper_plate",
+            "scma:copper_thread"
+        ]
+    }
+}

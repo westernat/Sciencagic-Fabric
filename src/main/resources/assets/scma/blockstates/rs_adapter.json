@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=north,r2s=true": {
+            "model": "scma:block/rs_adapter_r2s"
+        },
+        "facing=east,r2s=true": {
+            "model": "scma:block/rs_adapter_r2s",
+            "y": 90
+        },
+        "facing=south,r2s=true": {
+            "model": "scma:block/rs_adapter_r2s",
+            "y": 180
+        },
+        "facing=west,r2s=true": {
+            "model": "scma:block/rs_adapter_r2s",
+            "y": 270
+        },
+        "facing=north,r2s=false": {
+            "model": "scma:block/rs_adapter_s2r"
+        },
+        "facing=east,r2s=false": {
+            "model": "scma:block/rs_adapter_s2r",
+            "y": 90
+        },
+        "facing=south,r2s=false": {
+            "model": "scma:block/rs_adapter_s2r",
+            "y": 180
+        },
+        "facing=west,r2s=false": {
+            "model": "scma:block/rs_adapter_s2r",
+            "y": 270
+        }
+    }
+}

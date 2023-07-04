@@ -1,0 +1,7 @@
+{
+    "parent": "scma:block/diode_template",
+    "textures": {
+        "0": "scma:block/logic/not_gate_sign",
+        "3": "scma:block/logic/not_gate"
+    }
+}
